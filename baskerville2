@@ -39,31 +39,34 @@ The typeface is the result of Baskerville’s intent to improve upon the types o
 
 <p>Foundries that offer versions of Baskerville:</p>
 
-<p><b>Hot type</b>
+<ul>
+  <li><b>Hot type</b>
 <ul>
   <li>Deberny & Peignot</li>
   <li>Fry Foundry</li>
   <li>American Type Founders</li>
   <li>Linotype</li>
   <li>Lanston Monotype</li>
-</ul></p>
+</ul></ul><br>
 
-<p><b>Cold type</b>
+<ul>
+<li><b>Cold type</b>
 <ul>
   <li>Autologic</li>
-    <li>Berthold</li>
-    <li>Compugraphic</li>
-    <li>Hell AG</li>
-    <li>Monotype</li>
-</ul></p>
+  <li>Berthold</li>
+  <li>Compugraphic</li>
+  <li>Hell AG</li>
+  <li>Monotype</li>
+</ul></ul><br>
 
-    <p><b>Digital type</b>
-    <ul>
-      <li>Linotype</li>
-        <li>URW++</li>
-        <li>Monotype</li>
-        <li>Bitstream</li>
-</ul></p>
+<ul>
+  <li><b>Digital type</b>
+  <ul>
+  <li>Linotype</li>
+  <li>URW++</li>
+  <li>Monotype</li>
+  <li>Bitstream</li>
+</ul></ul>
 
 </section>
 
