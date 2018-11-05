@@ -8,6 +8,6 @@
 <br>
 
 <p><b>05th November 2018</b></p>
-<p>John Baskerville 2- https://esmaciej.github.io/John-Baskerville/baskerville2</p>
+<p>John Baskerville 2- https://esmaciej.github.io/John-Baskerville/baskerville2.readme</p>
 <p><i>Added list items</i></p>
 <br>
