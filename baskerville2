@@ -92,9 +92,9 @@ The typeface is the result of Baskerville’s intent to improve upon the types o
 <a href="top">Top</a>
 <footer>
 <p>The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you’re allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.</P>
-<a href="https://github.com/ESmaciej" title="View my personal github account." target="_blank" >HTML by Ernest Szymula</a>
+<p><a href="https://github.com/ESmaciej" title="View my personal github account." target="_blank" >HTML by Ernest Szymula</a></p>
 
-<a href="mailto:ipaat4@gmail.com?subject=Hello this is message from github" title="Feel free to send me an email">Get in touch</a>
+<a href="mailto:ipaat4@gmail.com?subject=Hello this message is from github" title="Feel free to send me an email">Get in touch</a>
 </p></footer>
 </body>
 
