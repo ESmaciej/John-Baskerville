@@ -1,6 +1,4 @@
 <h1>John-Baskerville IXD101 Interaction Design Fundamentals</h1>
-
-<br>
 <p>John Baskerville</p>
 
 <p>20th October 2018</p>
