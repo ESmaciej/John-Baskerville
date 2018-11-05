@@ -11,3 +11,4 @@
 <p>John Baskerville 2- https://esmaciej.github.io/John-Baskerville/baskerville2.html</p>
 <p><i>Added list items</i></p>
 <br>
+https://esmaciej.github.io/John-Baskerville/gh-pages/baskerville1.html
