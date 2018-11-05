@@ -7,6 +7,6 @@ John Baskerville 1 (make HTML)
 Marked up plain text 
 
 05 Nov
-https://    /baskerville2.html
+https://github    /baskerville2.html
 Added list items.
 
