@@ -4,7 +4,7 @@
 
 <p><b>20th October 2018</b></p>
 <p>John Baskerville 1- https://esmaciej.github.io/John-Baskerville/baskerville1.html</p>
-<p><i>Marked up plain text</i></p>
+<p><i>Marked up plain text.</i></p>
 <br>
 
 <p><b>05th November 2018</b></p>
