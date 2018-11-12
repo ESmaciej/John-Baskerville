@@ -11,4 +11,20 @@
 <p><a href="https://esmaciej.github.io/John-Baskerville/baskerville2.html">John Baskerville 2</a></p>
 <p><i>Added list items</i></p>
 <br>
-https://esmaciej.github.io/John-Baskerville/gh-pages/baskerville1.html
+
+<p><b>12th November 2018</b></p>
+<p><a href="https://esmaciej.github.io/John-Baskerville/baskerville3.html">John Baskerville 3</a></p>
+<p><i>Added tables and images.</i>
+<br>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  https://esmaciej.github.io/John-Baskerville/gh-pages/baskerville1.html
+  
+  
