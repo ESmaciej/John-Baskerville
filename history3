@@ -13,6 +13,8 @@
 <h1>List of Typefaces</h1>
 </header>
 
+<body>
+
 <table>
   <caption>The following list presents the typefaces our designers are best known for and some of the foundries who still produce them.</caption>
   <tr>
@@ -100,3 +102,5 @@
     <td>Wiescher Design</td>
   </tr>
 </table>
+</body>
+</html>
