@@ -12,3 +12,6 @@
 <p><i>Added list items</i></p>
 <br>
 https://esmaciej.github.io/John-Baskerville/gh-pages/baskerville1.html
+
+<p><a href="https://esmaciej.github.io/John-Baskerville/baskerville3.html">John Baskerville 3</a></p>
+<p><i>Added 
