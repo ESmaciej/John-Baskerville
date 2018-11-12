@@ -3,7 +3,7 @@
 <br>
 
 <p><b>20th October 2018</b></p>
-<p>John Baskerville 1- https://esmaciej.github.io/John-Baskerville/baskerville1.html</p>
+<p>John Baskerville 1- <a href="https://esmaciej.github.io/John-Baskerville/baskerville1.html">John Baskerville 1</a></p>
 <p><i>Marked up plain text</i></p>
 <br>
 
