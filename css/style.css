@@ -3,7 +3,7 @@
 * {
   padding: 0;
   margin: 0;
-  font-size: 110%;
+  font-size: 100%;
   line-height: 1em;
 }
 
@@ -140,7 +140,7 @@ footer{
 hr {
   margin: 1em 0;
   height: 1px;
-  background-color: #c06;
-  color: #c06;
+  background-color: grey;
+  color: grey;
   border: 0 none;
 }

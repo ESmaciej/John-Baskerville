@@ -3,7 +3,7 @@
 * {
   padding: 0;
   margin: 0;
-  font-size: 110%;
+  font-size: 16.8px;
   line-height: 1em;
 }
 
@@ -19,7 +19,7 @@ body {
 /* ------------------ typography ----------------------------*/
 h1, h2, h3 {
   font-weight: normal;
-  color: darkgreen;
+  color: rgba(107,121,147,1);
   text-align: center;
 }
 
@@ -29,19 +29,21 @@ p, li, blockquote {
 }
 
 h1 {
-  font-size: 3.998em;
+  font-size: 3.157em;
   margin-top: 1em;
-  margin-bottom: 0.1em;
+  margin-bottom: 0.4em;
+  color: rgba(88,101,125,1)
 
 }
 
 h2 {
-  font-size: 2.827em;
-  margin: 1em 0
+  font-size: 2.369em;
+  margin: 0.5em 0
 }
 
 h3 {
-  font-size: 1.999em;
+  font-size: 1.777em;
+  margin: 0.3em;
 }
 
 blockquote {
@@ -49,15 +51,11 @@ blockquote {
   text-indent: -0.5em;
 }
 
-header h2 {
-  font-style: italic;
-  font-size: 2.35em;
-  margin-top: 0.1em;
-  color: #333;
-}
-
-.eaves {
-  color: grey;
+caption {
+  text-align: left;
+  font-size: 1em;
+  line-height: 1.4em;
+  padding: 1em 0;
 }
 
 /* ----------- STYLE LINKS -------------------*/
@@ -80,7 +78,7 @@ nav {
   left: 0;
   margin: 0;
   width: 100%;
-  background-color: rgba: 102, 0, 102, 0.5; /* ------ WAS DARKGREEN -------*/
+  background-color: rgba(62,72,90,0.6);
   padding: 1em 0;
   font-size: 0.75em;
 }
@@ -110,8 +108,8 @@ nav a:hover {
 
 /* ----------------BLOCKQUOTE ---------------------*/
 blockquote {
-  padding: 1em 0 4em 0;
-  font-size: 1.75em;
+  padding: 1em 0 2em 0;
+  font-size: 1.15em;
   line-height: 1.3em;
   color: #777;
 }
@@ -140,7 +138,7 @@ footer{
 hr {
   margin: 1em 0;
   height: 1px;
-  background-color: #c06;
-  color: #c06;
+  background-color: rgb(88,101,125,1);
+  color: grey;
   border: 0 none;
 }
