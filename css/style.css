@@ -37,7 +37,7 @@ h1 {
 
 h2 {
   font-size: 2.827em;
-  margin: 1em 0
+  margin: 0.5em 0
 }
 
 h3 {
@@ -51,7 +51,7 @@ blockquote {
 
 header h2 {
   font-style: italic;
-  font-size: 2.35em;
+  font-size: 2.25em;
   margin-top: 0.1em;
   color: #333;
 }
@@ -80,7 +80,7 @@ nav {
   left: 0;
   margin: 0;
   width: 100%;
-  background-color: rgba: 102, 0, 102, 0.5; /* ------ WAS DARKGREEN -------*/
+  background-color: rgba(204, 0, 102, 0.6);
   padding: 1em 0;
   font-size: 0.75em;
 }
@@ -110,8 +110,8 @@ nav a:hover {
 
 /* ----------------BLOCKQUOTE ---------------------*/
 blockquote {
-  padding: 1em 0 4em 0;
-  font-size: 1.75em;
+  padding: 1em 0 2em 0;
+  font-size: 1.15em;
   line-height: 1.3em;
   color: #777;
 }
