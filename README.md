@@ -10,8 +10,8 @@
 
 <p><b>05th November 2018</b></p>
 <p><a href="https://esmaciej.github.io/John-Baskerville/baskerville2.html">John Baskerville 2</a></p>
-<p><a href="https://esmaciej.github.io/John-Baskerville/history2.html">History of type 2</a></p>
 <p><i>Added list items.</i></p>
+<p><a href="https://esmaciej.github.io/John-Baskerville/history2.html">History of type 2</a></p>
 <br>
 
 <p><b>12th November 2018</b></p>
