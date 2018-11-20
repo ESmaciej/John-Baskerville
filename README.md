@@ -25,10 +25,6 @@
 <p><i>Added tables and images.</i>
 <p><a href="https://esmaciej.github.io/John-Baskerville/history4.html">History of type 4</a></p>
 <br>
-
-
-  
-  
   
   
   
