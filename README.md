@@ -25,6 +25,12 @@
 <p><i>Added tables and images.</i>
 <p><a href="https://esmaciej.github.io/John-Baskerville/history4.html">History of type 4</a></p>
 <br>
+
+<p><b>26th November 2018</b></p>
+<p><a href="https://esmaciej.github.io/John-Baskerville/baskerville5.html">John Baskerville 5</a></p>
+<p><i>Added tables and images.</i>
+<p><a href="https://esmaciej.github.io/John-Baskerville/history5.html">History of type 5</a></p>
+<br>
   
   
   
