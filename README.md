@@ -31,6 +31,12 @@
 <p><i>Added tables and images.</i>
 <p><a href="https://esmaciej.github.io/John-Baskerville/history5.html">History of type 5</a></p>
 <br>
+
+<p><b>3rd December 2018</b></p>
+<p><a href="https://esmaciej.github.io/John-Baskerville/baskerville6.html">John Baskerville 6</a></p>
+<p><i>Added tables and images.</i>
+<p><a href="https://esmaciej.github.io/John-Baskerville/history6.html">History of type 6</a></p>
+<br>
   
   
   
