@@ -1,0 +1,145 @@
+/* ----------------- CSS RESET ------------------- */
+
+* {
+  padding: 0;
+  margin: 0;
+  font-size: 16.8px;
+  line-height: 1em;
+}
+
+/* ------- MAIN STYLING ----------- */
+
+body {
+    width: 75%;
+    max-width: 670px;
+    margin: auto;
+    background: #fafafa;
+    color: #333;
+    font-family: 'Libre Baskerville', serif;
+}
+/* ------------------ typography ----------------------------*/
+h1, h2, h3 {
+  font-weight: normal;
+  color: rgba(107,121,147,1);
+  text-align: center;
+  
+}
+
+p, li, blockquote {
+  margin-bottom: 1.5em;
+  line-height: 1.4
+}
+
+h1 {
+  font-size: 3.157em;
+  margin-top: 1em;
+  margin-bottom: 0.4em;
+  color: rgba(88,101,125,1)
+}
+
+h2 {
+  font-size: 2.369em;
+  margin: 0.5em 0
+}
+
+h3 {
+  font-size: 1.777em;
+  margin: 0.3em;
+}
+
+
+/* ----------- STYLE LINKS -------------------*/
+
+a {
+color: darkgreen;
+text-decoration: none;
+}
+
+a:hover {
+  color: #006341;
+  border-bottom: 1px dotted;
+}
+
+/* --------------- NAVIGATION --------------------*/
+
+nav {
+  position: fixed;
+  top: 0;
+  left: 0;
+  margin: 0;
+  width: 100%;
+  background-color: rgba(62,72,90,0.6);
+  padding: 1em 0;
+  font-size: 0.75em;
+}
+
+nav ul {
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 2px;
+}
+
+nav ul li {
+  display: inline;
+  margin: 20px;
+}
+
+nav a:link {
+  color: #fff;
+}
+
+nav a:visited {
+  color: grey;
+}
+nav a:hover {
+  border-bottom: none;
+  color: black;
+}
+
+/* ----------------BLOCKQUOTE ---------------------*/
+blockquote {
+  font-size: 1.2em;
+  line-height: 1.3em;
+  color: #777;
+  hanging-punctuation: first;
+  text-indent: -0.5em;
+}
+
+/* ---------------- INTERACTIVE IMAGES ------------*/
+img {
+  display: block;
+  margin: 1em auto;
+  padding: 0;
+  max-width: 100%;
+}
+
+hr {
+  margin: 1em 0;
+  height: 1px;
+  background-color: rgb(88,101,125,1);
+  color: grey;
+  border: 0 none;
+}
+
+/* -------------- ADDED TABLE BORDER -------------*/
+table, th, td {
+    
+    border: 1px solid black;
+}
+
+.caption {
+  text-align: left;
+  font-size: 0.9em;
+  line-height: 1.4em;
+font-style: italic;
+  margin-bottom: 1em;
+}
+
+/* ---------------- FOOTER -------------------*/
+/* ---------- CHECK WHY FONT-SIZE CHANGES LINE HEIGHT -------------*/
+footer p{
+  text-align: left;
+  font-size: 0.75em;
+  line-height: 1.5;
+  padding: 1.5em 0;
+  color: rgba(88,101,125,1)
