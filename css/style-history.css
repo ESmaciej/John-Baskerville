@@ -122,21 +122,23 @@ hr {
 
 /* -------------- ADDED TABLE BORDER -------------*/
 table, th, td {
+    
     border: 1px solid black;
 }
 
-caption {
+.caption {
   text-align: left;
-  font-size: 1em;
+  font-size: 0.9em;
   line-height: 1.4em;
-  text-align-last: justify;
+font-style: italic;
+  margin-bottom: 1em;
 }
 
 /* ---------------- FOOTER -------------------*/
 /* ---------- CHECK WHY FONT-SIZE CHANGES LINE HEIGHT -------------*/
-footer{
+footer p{
   text-align: left;
-  font-size: 1em;
-  line-height: 1.5em;
+  font-size: 0.75em;
+  line-height: 1.5;
   padding: 1.5em 0;
   color: rgba(88,101,125,1)

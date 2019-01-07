@@ -130,6 +130,38 @@ img {
   max-width: 100%;
 }
 
+
+/* ------------------ TABLE ------------ */
+table {
+margin: auto;
+display: table;
+border-collapse: collapse;
+border-spacing: 2px;
+margin-bottom: 2em;
+}
+
+caption {
+    margin-bottom: 1.5em;
+    text-transform: uppercase;
+}
+
+th {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: normal;
+    text-align: left;
+    background: #c06;
+}
+
+th, td {
+    padding:0.8em;
+}
+
+table, td {
+background: #C9C9C9;
+    border: 1px solid #fff;
+}
+
 /* ---------------- FOOTER -------------------*/
 
 footer{
@@ -145,4 +177,46 @@ hr {
   background-color: grey;
   color: grey;
   border: 0 none;
+}
+
+.connections {
+    position: relative;
+    margin: 0 auto;
+    margin: 20px, 0;
+}
+
+.conections ul {
+    margin: 0;
+    padding: 0;
+}
+
+.connections li {
+    margin: 0 15px;
+    padding: 0;
+    list-style: none;
+    display: inline-block;
+}
+
+.connections img {
+    opacity: 0.5;
+    border: none;
+}
+
+.connections a:hover img{
+    opacity: 1.0;
+    border-bottom: none;
+    transition: all 0.3s ease-in-out;
+    transform: scale(1.2);
+}
+
+media (max-width: 50em) {
+    * {background-color: aqua}
+body {
+    margin: auto;
+    font-size: 115%;
+    width: 85%;
+}
+    article {
+        width: 90%;
+    }
 }
